@@ -28,7 +28,7 @@ Neural Cities (Jasper van Loenen): https://jaspervanloenen.com/neural-cities/
 
 City2city: https://bland.website/city2city/
 
-Nvidia AI generated game: https://www.theverge.com/2018/12/3/18121198/ai-generated-video-game-graphics-nvidia-driving-demo-neurips
+Nvidia AI generated game (vid2vid): https://www.theverge.com/2018/12/3/18121198/ai-generated-video-game-graphics-nvidia-driving-demo-neurips
 
 ### Other resources pages
 https://awesomeopensource.com/projects/pix2pix
