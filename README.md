@@ -1,5 +1,8 @@
 # Resources for AI
 
-## Pix2Pix
+## pix2pix
 
-  * Image to image demo : https://affinelayer.com/pixsrv/
+  * Memo Akten pix2pix with webcam: https://github.com/memo/webcam-pix2pix-tensorflow
+  * Image to image:
+    * Article: https://affinelayer.com/pixsrv/
+    * Code: https://github.com/skabbit/pix2pix-webcam
