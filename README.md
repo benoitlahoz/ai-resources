@@ -36,6 +36,7 @@ DeepNude:
   * Code: https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology
   * Online demo: http://www.geometrylearning.com:3000/index_EN_621.html
 DeepNude: https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology/tree/master/DeepNude_software_itself
+MUNIT: https://github.com/taki0112/MUNIT-Tensorflow
 
 
 
