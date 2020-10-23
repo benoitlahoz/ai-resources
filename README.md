@@ -2,7 +2,7 @@
 
 ## Tensorflow
 ### Code
-Examples: https://github.com/YunYang1994/TensorFlow2.0-Examples
+TF 2 examples: https://github.com/YunYang1994/TensorFlow2.0-Examples
 
 ### API
 ml5.js, Javascript interface to TF: https://ml5js.org/
