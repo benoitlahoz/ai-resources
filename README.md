@@ -28,8 +28,6 @@ Neural Cities (Jasper van Loenen): https://jaspervanloenen.com/neural-cities/
 
 City2city: https://bland.website/city2city/
 
-Nvidia AI generated game (vid2vid): https://www.theverge.com/2018/12/3/18121198/ai-generated-video-game-graphics-nvidia-driving-demo-neurips
-
 ### Other resources pages
 https://awesomeopensource.com/projects/pix2pix
 
@@ -90,6 +88,10 @@ Visual Objects Network (3D shapes): https://github.com/junyanz/VON
 
 Next frame prediction: https://coxlab.github.io/prednet/
 
+Nvidia AI generated game (vid2vid):
+  * Article: https://www.theverge.com/2018/12/3/18121198/ai-generated-video-game-graphics-nvidia-driving-demo-neurips
+  * Code: https://github.com/NVIDIA/vid2vid
+  
 ### Filters and tools
 
 Deblurring: https://github.com/KupynOrest/DeblurGAN
