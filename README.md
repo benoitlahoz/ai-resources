@@ -22,15 +22,31 @@ Invisible cities: https://opendot.github.io/ml4a-invisible-cities/implementation
 
 Architecture: https://developer.nvidia.com/blog/archigan-generative-stack-apartment-building-design/
 
+Generate semantic images (paper): https://arxiv.org/pdf/1906.12195.pdf
+
+Neural Cities (Jasper van Loenen): https://jaspervanloenen.com/neural-cities/
+
+City2city: https://bland.website/city2city/
+
+Nvidia AI generated game: https://www.theverge.com/2018/12/3/18121198/ai-generated-video-game-graphics-nvidia-driving-demo-neurips
+
+### Other resources pages
+https://awesomeopensource.com/projects/pix2pix
+
+https://www.makery.info/2017/04/25/intelligence-artificielle-top-10-des-protos-a-suivre/
+
+https://blog.eduonix.com/artificial-intelligence/grand-finale-applications-gans/
+
+### Online
+
+Google Autodraw: https://www.autodraw.com/
+
 ### Tutorials
 #### General
 https://ml4a.github.io/guides/Pix2Pix/
 
 #### Training
 https://medium.com/@dongphilyoo/how-to-train-pix2pix-model-and-generating-on-the-web-with-ml5-js-87d879fb4224
-
-#### Other resources pages
-https://awesomeopensource.com/projects/pix2pix
 
 ### Code
 
@@ -72,6 +88,8 @@ Unity:
 
 Visual Objects Network (3D shapes): https://github.com/junyanz/VON
 
+Next frame prediction: https://coxlab.github.io/prednet/
+
 ### Filters and tools
 
 Deblurring: https://github.com/KupynOrest/DeblurGAN
@@ -82,7 +100,11 @@ Generating visual effects (with prebuilt executable): https://github.com/keijiro
 
 Movie colorizing: https://github.com/awjuliani/Pix2Pix-Film
 
+Dehazing (paper): https://openaccess.thecvf.com/content_CVPR_2019/papers/Qu_Enhanced_Pix2pix_Dehazing_Network_CVPR_2019_paper.pdf
 
+### Datasets
+
+Labeled flowers: https://www.kaggle.com/alxmamaev/flowers-recognition/data
 
 ## Layout
 
@@ -90,8 +112,17 @@ Page to page (with demo): https://github.com/lquirosd/P2PaLA
 
 
 
+## Characters
 
+Handwriting synthesis:
+  * Demo: http://www.cs.toronto.edu/~graves/handwriting.html
+  * Code: https://github.com/szcom/rnnlib
 
+## General datasets
+
+### Datasets
+
+Kaggle: https://www.kaggle.com/datasets
 
 ## Platforms
 Spell (has a free plan): https://spell.ml/
