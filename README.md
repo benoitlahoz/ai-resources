@@ -3,7 +3,10 @@
 ## pix2pix
 
   * Tutorials:
-    * https://ml4a.github.io/guides/Pix2Pix/
+    * General:
+      * https://ml4a.github.io/guides/Pix2Pix/
+    * Training:
+      * https://medium.com/@dongphilyoo/how-to-train-pix2pix-model-and-generating-on-the-web-with-ml5-js-87d879fb4224
   * Code:
     * Memo Akten pix2pix with webcam: https://github.com/memo/webcam-pix2pix-tensorflow
     * Image to image:
