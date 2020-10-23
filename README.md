@@ -20,6 +20,8 @@ Cities with electronic circuits: https://www.rileynwong.com/blog/2019/3/5/circui
 
 Invisible cities: https://opendot.github.io/ml4a-invisible-cities/implementation/
 
+Architecture: https://developer.nvidia.com/blog/archigan-generative-stack-apartment-building-design/
+
 ### Tutorials
 #### General
 https://ml4a.github.io/guides/Pix2Pix/
