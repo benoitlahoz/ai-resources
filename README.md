@@ -38,7 +38,9 @@ Image to image:
 ## Image generation
 
 IGAN: https://github.com/junyanz/iGAN
-DeepNude: https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology
+DeepNude:
+  * Code: https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology
+  * Online demo: http://www.geometrylearning.com:3000/index_EN_621.html
 
 
 
