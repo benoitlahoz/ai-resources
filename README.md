@@ -60,7 +60,9 @@ Unsupervised, UNIT: https://github.com/mingyuliutw/UNIT
 
 Collection of GAN implementations: https://github.com/tjwei/GANotebooks
 
-Pix2pix for Unity: https://github.com/keijiro/Pix2Pix
+Unity:
+  * Pix2pix: https://github.com/keijiro/Pix2Pix
+  * Generative cities: https://github.com/DerTarchin/Pix2Pix-Generative-Cities
 
 Visual Objects Network (3D shapes): https://github.com/junyanz/VON
 
