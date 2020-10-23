@@ -16,6 +16,10 @@ ml5.js, Javascript interface to TF: https://ml5js.org/
 ### Articles
 Toward multimodal image-to-image translation (with code): https://junyanz.github.io/BicycleGAN/
 
+Cities with electronic circuits: https://www.rileynwong.com/blog/2019/3/5/circuit-cities-with-pix2pix-using-image-to-image-translation-with-generative-adversarial-networks-to-create-buildings-maps-and-satellite-images-from-circuit-boards
+
+Invisible cities: https://opendot.github.io/ml4a-invisible-cities/implementation/
+
 ### Tutorials
 #### General
 https://ml4a.github.io/guides/Pix2Pix/
@@ -65,7 +69,6 @@ Unity:
   * Generative cities: https://github.com/DerTarchin/Pix2Pix-Generative-Cities
 
 Visual Objects Network (3D shapes): https://github.com/junyanz/VON
-
 
 ### Filters and tools
 
