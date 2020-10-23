@@ -11,7 +11,10 @@ ml5.js, Javascript interface to TF: https://ml5js.org/
 
 
 
-## Image generation
+## Image
+
+### Articles
+Toward multimodal image-to-image translation (with code): https://junyanz.github.io/BicycleGAN/
 
 ### Tutorials
 #### General
@@ -19,6 +22,9 @@ https://ml4a.github.io/guides/Pix2Pix/
 
 #### Training
 https://medium.com/@dongphilyoo/how-to-train-pix2pix-model-and-generating-on-the-web-with-ml5-js-87d879fb4224
+
+#### Other resources pages
+https://awesomeopensource.com/projects/pix2pix
 
 ### Code
 
@@ -28,17 +34,25 @@ Image to image:
   * Article: https://affinelayer.com/pixsrv/
   * Code: https://github.com/skabbit/pix2pix-webcam
 
+CycleGAN (PyTorch): https://github.com/junyanz/CycleGAN
+
 Cycle GAN in Tensorflow: https://github.com/leehomyc/cyclegan-1
 
 Another implementation of CycleGAN: https://github.com/vanhuyz/CycleGAN-TensorFlow
 
+Pix2pix HD: https://github.com/NVIDIA/pix2pixHD
+
+GAN compression for Pix2pix: https://github.com/mit-han-lab/gan-compression
+
 IGAN: https://github.com/junyanz/iGAN
 
-DeepNude:
+DeepFace:
   * Code: https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology
   * Online demo: http://www.geometrylearning.com:3000/index_EN_621.html
 
-DeepNude: https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology/tree/master/DeepNude_software_itself
+DeepNude:
+  * https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology/tree/master/DeepNude_software_itself
+  * With PyTorch, no watermark: https://github.com/zhengyima/DeepNude_NoWatermark_withModel
 
 Unsupervised, MUNIT: https://github.com/taki0112/MUNIT-Tensorflow
 
@@ -46,19 +60,28 @@ Unsupervised, UNIT: https://github.com/mingyuliutw/UNIT
 
 Collection of GAN implementations: https://github.com/tjwei/GANotebooks
 
+Pix2pix for Unity: https://github.com/keijiro/Pix2Pix
 
-## Image filters and tools
+Visual Objects Network (3D shapes): https://github.com/junyanz/VON
+
+
+### Filters and tools
 
 Deblurring: https://github.com/KupynOrest/DeblurGAN
 
+Monocular image to depth map: https://github.com/gautam678/Pix2Depth
+
+Generating visual effects (with prebuilt executable): https://github.com/keijiro/Ngx
+
+Movie colorizing: https://github.com/awjuliani/Pix2Pix-Film
 
 
 
-## PyTorch
-### Code
-CycleGAN: https://github.com/junyanz/CycleGAN
+## Layout
 
-Pix2Pix HD: https://github.com/NVIDIA/pix2pixHD
+Page to page (with demo): https://github.com/lquirosd/P2PaLA
+
+
 
 
 
