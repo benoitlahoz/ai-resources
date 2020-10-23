@@ -8,10 +8,6 @@ Another implementation of CycleGAN: https://github.com/vanhuyz/CycleGAN-TensorFl
 ### API
 ml5.js, Javascript interface to TF: https://ml5js.org/
 
-## PyTorch
-### Code
-CycleGAN: https://github.com/junyanz/CycleGAN
-Pix2Pix HD: https://github.com/NVIDIA/pix2pixHD
 
 
 
@@ -40,6 +36,12 @@ MUNIT: https://github.com/taki0112/MUNIT-Tensorflow
 
 
 
+
+
+## PyTorch
+### Code
+CycleGAN: https://github.com/junyanz/CycleGAN
+Pix2Pix HD: https://github.com/NVIDIA/pix2pixHD
 
 
 
