@@ -16,7 +16,7 @@ Pix2Pix HD: https://github.com/NVIDIA/pix2pixHD
 
 
 
-## pix2pix
+## Image generation
 
 ### Tutorials
 #### General
@@ -31,16 +31,13 @@ Memo Akten pix2pix with webcam: https://github.com/memo/webcam-pix2pix-tensorflo
 Image to image:
   * Article: https://affinelayer.com/pixsrv/
   * Code: https://github.com/skabbit/pix2pix-webcam
-
-
-
-
-## Image generation
-
 IGAN: https://github.com/junyanz/iGAN
 DeepNude:
   * Code: https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology
   * Online demo: http://www.geometrylearning.com:3000/index_EN_621.html
+
+
+
 
 
 
