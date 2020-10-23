@@ -1,12 +1,19 @@
 # Resources for AI
 
 ## Tensorflow
+### Code
+Cycle GAN in Tensorflow: https://github.com/leehomyc/cyclegan-1
+
 ### API
 ml5.js, Javascript interface to TF: https://ml5js.org/
 
+## PyTorch
+### Code
+CycleGAN: https://github.com/junyanz/CycleGAN
+
 ## pix2pix
 ### Tutorials
-#### Genera
+#### General
 https://ml4a.github.io/guides/Pix2Pix/
 
 #### Training
@@ -19,4 +26,5 @@ Image to image:
   * Code: https://github.com/skabbit/pix2pix-webcam
 
 ## Platforms
-Spell: https://spell.ml/
+Spell (has a free plan): https://spell.ml/
+Twilio (pay as you go): https://www.twilio.com/
