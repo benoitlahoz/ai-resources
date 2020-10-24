@@ -91,7 +91,9 @@ Next frame prediction: https://coxlab.github.io/prednet/
 Nvidia AI generated game (vid2vid):
   * Article: https://www.theverge.com/2018/12/3/18121198/ai-generated-video-game-graphics-nvidia-driving-demo-neurips
   * Code: https://github.com/NVIDIA/vid2vid
-  
+
+Video generation from single image: https://github.com/malfusion/pix2pix-video-synthesis
+
 ### Filters and tools
 
 Deblurring: https://github.com/KupynOrest/DeblurGAN
