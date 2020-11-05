@@ -116,11 +116,13 @@ Page to page (with demo): https://github.com/lquirosd/P2PaLA
 
 
 
-## Characters
+## Text
 
 Handwriting synthesis:
   * Demo: http://www.cs.toronto.edu/~graves/handwriting.html
   * Code: https://github.com/szcom/rnnlib
+
+Text to image synthesis: https://github.com/zsdonghao/im2txt2im
 
 ## General datasets
 
